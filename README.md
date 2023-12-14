@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Simran</h1>
-<h3 align="center">Passionate Web developer| Recent CS Graduate</h3>
+<h3 align="center"> Web developer| Data Analytics | Recent CS Graduate</h3>
 
 - 🌱 I’m currently learning **React JS , Java**
 
